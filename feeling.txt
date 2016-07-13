@@ -1,3 +1,6 @@
 i don't know what feeling
 
 understand how stage work.
+
+git 管理的修改而不是文件。
+第二次修改这个文件。
