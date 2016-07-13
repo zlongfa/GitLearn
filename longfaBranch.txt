@@ -5,3 +5,5 @@ creating a new branch is quick and simple.
 qiang zhi jinzhi kuaisu hebing moshi de qubie.
 
 i am in mybranch, and l make some change.
+
+i change in /G/Git/originMaster/GitLearn/longfaBranch.txt.
