@@ -6,3 +6,4 @@ git 管理的修改而不是文件。
 第二次修改这个文件。
 
 git third change;
+git  fouth change;
