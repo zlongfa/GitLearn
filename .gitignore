@@ -1,0 +1,10 @@
+.settings
+bin
+gen
+.classpath
+.project
+lint.xml
+proguard-project.txt
+project.properties
+
+ignoreFile.txt
